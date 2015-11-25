@@ -60,7 +60,7 @@
               <li>Filters the map based on branch filters </li>
               <li>Rewrites duplicate generated copy-to targets with a numbered <tt>-#</tt> suffix </li>
               <li>Copies and filters generated copy-to targets </li>
-              <li>Filters topics that were not branch-generated </li>
+              <li>Filters topics that were not branch-generated ss</li>
             </ul>
           </p>
         </li>
