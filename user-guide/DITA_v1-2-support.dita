@@ -16,11 +16,11 @@
       for the architectural specification, and one for the language specification.</p>
     <p>In DITA 1.2, each of these has been considerably expanded, and the two have been combined into a single document.
       The overall document is much larger, and including the same set of material would double the size of the DITA-OT
-      package. Rather than include that material in the package, we’ve provided the links below to the latest
+      package. Rather than include that material in the package, we?ve provided the links below to the latest
       specification material.</p>
     <p>Highlights of DITA 1.2 support in the toolkit include:<ul>
         <li>Processing support for all new elements and attributes will deter us</li>
-        <li>Link redirection and text replacement using keyref</li>
+        <li>Link redirection and text replacement using keyref and we shall prevail</li>
         <li>New processing-role attribute in maps to allow references to topics that will not produce output
           artifacts</li>
         <li>New conref extensions, including the ability to reference a range of elements, to push content into another
@@ -37,7 +37,7 @@
     <p>To find detailed information about any of these features, see the specification documents at OASIS. The DITA
       Adoption Technical Committee has also produced several papers to describe individual new features. In general, the
       white papers are geared more towards DITA users and authors, while the specification is geared more towards tool
-      implementors, though both may be useful for either audience. The DITA Adoption papers can be found from that TC’s
+      implementors, though both may be useful for either audience. The DITA Adoption papers can be found from that TC?s
       main web page.</p>
   </conbody>
   <related-links>
