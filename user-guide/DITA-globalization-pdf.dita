@@ -3,7 +3,8 @@
 <!--This file is part of the DITA Open Toolkit project. See the accompanying LICENSE.md file for applicable licenses.-->
 
 <reference id="dita-globalization-pdf" xml:lang="en-US">
-  <title>Supported languages: PDF transformations</title>
+  <title>Supported languages: PDF
+    <?oxy_comment_start author="Gabriel Titerlea" timestamp="20151125T170701+0200" comment="This is my comment"?>transformations<?oxy_comment_end?></title>
   <shortdesc>The DITA Open Toolkit supports a smaller set of languages for the PDF (pdf2) transformation. This
     transformation was donated to the DITA-OT project after the project inception, and it uses a different and larger
     set of generated text than the HTML-based transformations.</shortdesc>
