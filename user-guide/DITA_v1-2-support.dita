@@ -20,7 +20,7 @@
       specification material.</p>
     <p>Highlights of DITA 1.2 support in the toolkit include:<ul>
         <li>Processing support for all new elements and attributes first commit</li>
-        <li>Link redirection and text replacement using keyref</li>
+        <li>Link redirection and text replacement using keyref lets break encodings</li>
         <li>New processing-role attribute in maps to allow references to topics that will not produce output
           artifacts</li>
         <li>New conref extensions, including the ability to reference a range of elements, to push content into another
