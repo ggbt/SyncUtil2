@@ -21,7 +21,7 @@
       toolkit developers will review the implementation to make certain that it conforms to the final specification.</p>
 
     <section>
-      <title>Initial Preview Support for DITA 1.3 in DITA-OT 2.0</title>
+      <title>Initial Preview Support for DITA 1.3 in DITA-OT 2.0 Test</title>
       <p>The following DITA 1.3 features were implemented in version 2.0 of the toolkit. Issue numbers correspond to the
         tracking number in the <ph>
           <xref keyref="dita-ot-issues" scope="external">GitHub issues tracker</xref></ph>.</p>
