@@ -19,7 +19,7 @@
       package. Rather than include that material in the package, we’ve provided the links below to the latest
       specification material.</p>
     <p>Highlights of DITA 1.2 support in the toolkit include:<ul>
-        <li>Processing support for all new elements and attributes</li>
+        <li>Processing support for all new elements and attributes first commit</li>
         <li>Link redirection and text replacement using keyref</li>
         <li>New processing-role attribute in maps to allow references to topics that will not produce output
           artifacts</li>
