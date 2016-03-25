@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="test2">
+  <title>Test2</title>
+  <body>
+    <p>Link with keyref <xref keyref="KK" id="p1"/></p>
+    <p>Metadata keyref <ph keyref="kk2" id="p2"/></p>
+    <p conkeyref="KK/paraID" id="p3"/>
+  </body>
+</topic>
