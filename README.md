@@ -1,4 +1,4 @@
-[Click here to make changes to the repository using oXygen XML web Author](http://10.0.0.61:8081/oxygen-webapp/static/oxygen.html?gh_repo=ggbt/SyncUtil2&gh_branch=master&gh_ditamap=keysExample/test.ditamap)
+[Click here to make changes to the repository using oXygen XML web Author](http://10.0.0.61:8081/oxygen-webapp/static/oxygen.html?gh_repo=ggbt/SyncUtil2&gh_ditamap=keysExample/test.ditamap)
 
 # DITA Open Toolkit Documentation
 
