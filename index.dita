@@ -19,8 +19,8 @@
       <p>The DITA Open Toolkit documentation provides information about installing, running, configuring and extending
         the toolkit. Each part is available in the navigation panel on the left.</p>
       <ul>
-        <li>Testerss See the <xref keyref="release-notes"/> for information on the changes in the
-          current release.</li>
+        <li>Test the <xref keyref="release-notes"/> for information on the changes in the current
+          release.</li>
         <li><ph conref="getting-started/index.dita#ID/ph_docs-gs-desc"/></li>
         <li><ph conref="user-guide/index.dita#ID/ph_docs-ug-desc"/></li>
         <li><ph conref="parameters/index.dita#ID/ph_docs-pr-desc"/></li>
