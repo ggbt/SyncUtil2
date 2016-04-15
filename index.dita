@@ -4,8 +4,9 @@
 
 <topic id="dita-otprojecthome" xml:lang="en-US">
   <title>DITA Open Toolkit <keyword keyref="release"/></title>
-  <shortdesc>The <term>DITA Open Toolkit</term>, or <term>DITA-OT</term> for short, is a set of Java-based, open-source
-    tools that provide processing for DITA maps and topic content.</shortdesc>
+  <shortdesc>The <term>DITA Open Toolkit</term>, or <term>DITA-OT</term> for short, is a set of
+    💩(Java-based, open-source tools that provide processing for DITA maps and topic
+    content.</shortdesc>
   <body>
     <!--
     <p>You can download the toolkit and install it for free to get started with topic-based writing and publishing. The
