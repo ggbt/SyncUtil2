@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="test2">
-  <title>Test2</title>
+  <title>Test22↙</title>
   <body>
     <p>Link w<image href="test.ditamap" id="image_ent_tzs_tv"/>ith keyref <xref keyref="KK" id="p1"
       /></p>
