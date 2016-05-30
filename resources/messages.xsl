@@ -3,14 +3,9 @@
      Sourceforge.net. See the accompanying license.txt file for 
      applicable licenses.-->
 <!-- (c) Copyright IBM Corp. 2012 All Rights Reserved. -->
-<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-
-  <xsl:output method="xml" 
-              indent="no" 
-              doctype-public="-//OASIS//DTD DITA Reference//EN" 
-              doctype-system="reference.dtd"/>
-
-  <xsl:template match="/">
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">ss<xsl:output
+    method="xml" indent="no" doctype-public="-//OASIS//DTD DITA Reference//EN"
+    doctype-system="reference.dtd"/><xsl:template match="/">
     <xsl:comment>
      This file is part of the DITA Open Toolkit project hosted on 
      Sourceforge.net. See the accompanying license.txt file for 
@@ -46,14 +41,17 @@
         <section id="overview"><p>Plug-ins may be used to add additional error messages into the toolkit;
 for more information, see the Developer reference section of the User Guide.</p></section>
         <simpletable>
-          <xsl:attribute name="relcolwidth">1.5* 1.8* 4* 4*</xsl:attribute>
+          <xsl:attribute
+            name="relcolwidth">1.5* 1.8* 4*
+            4*</xsl:attribute>
           <sthead>
               <stentry>Message ID</stentry>
               <stentry>Severity</stentry>
               <stentry>Message text</stentry>
               <stentry>Additional details</stentry>
           </sthead>
-          <xsl:for-each select="/*/message">
+          <xsl:for-each
+            select="/*/message">
             <xsl:sort select="@id"/>
             <strow id="{@id}">
               <stentry><msgnum><xsl:value-of select="@id"/></msgnum></stentry>
@@ -63,15 +61,19 @@ for more information, see the Developer reference section of the User Guide.</p>
                   <xsl:when test="@type='WARN'">Warning</xsl:when>
                   <xsl:when test="@type='ERROR'">Error</xsl:when>
                   <xsl:when test="@type='FATAL'">Fatal</xsl:when>
-                  <xsl:otherwise><xsl:value-of select="@type"/></xsl:otherwise>
+                  <xsl:otherwise>
+                    <xsl:value-of select="@type"/>
+                  </xsl:otherwise>
                 </xsl:choose>
               </stentry>
               <stentry>
-                <xsl:call-template name="format-message">
+                <xsl:call-template
+                  name="format-message">
                   <xsl:with-param name="text" select="string(reason)"/>
                 </xsl:call-template>
                 <xsl:text> </xsl:text>
-                <xsl:call-template name="format-message">
+                <xsl:call-template
+                  name="format-message">
                   <xsl:with-param name="text" select="string(response)"/>
                 </xsl:call-template>
               </stentry>
@@ -81,16 +83,16 @@ for more information, see the Developer reference section of the User Guide.</p>
         </simpletable>
       </refbody>
     </reference>
-  </xsl:template>
-  
-  <xsl:template name="format-message">
+  </xsl:template><xsl:template name="format-message">
     <xsl:param name="text"/>
     <xsl:choose>
-      <xsl:when test="contains($text, '%') and not(number(substring(substring-after($text, '%'), 1, 1)) = number('NaN'))">
+      <xsl:when
+        test="contains($text, '%') and not(number(substring(substring-after($text, '%'), 1, 1)) = number('NaN'))">
         <xsl:value-of select="substring-before($text, '%')"/>
         <varname>
           <xsl:text>%</xsl:text>
-          <xsl:value-of select="substring(substring-after($text, '%'), 1, 1)"/>
+          <xsl:value-of
+            select="substring(substring-after($text, '%'), 1, 1)"/>
         </varname>
         <xsl:call-template name="format-message">
           <xsl:with-param name="text" select="substring(substring-after($text, '%'), 2)"/>
@@ -100,10 +102,7 @@ for more information, see the Developer reference section of the User Guide.</p>
         <xsl:value-of select="$text"/>
       </xsl:otherwise>
     </xsl:choose>
-  </xsl:template>
-
-  <!-- To create each as a nested topic -->
-  <!--
+  </xsl:template><!-- To create each as a nested topic --><!--
       <xsl:for-each select="/*/message">
         <reference id="{@id}">
           <title><xsl:value-of select="@id"/></title>
@@ -113,6 +112,4 @@ for more information, see the Developer reference section of the User Guide.</p>
           </refbody>
         </reference>
       </xsl:for-each>
-  -->
-
-</xsl:stylesheet>
+  --></xsl:stylesheet>
