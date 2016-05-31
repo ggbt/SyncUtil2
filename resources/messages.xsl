@@ -5,10 +5,10 @@
 <!-- (c) Copyright IBM Corp. 2012 All Rights Reserved. -->
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">ss<xsl:output
     method="xml" indent="no" doctype-public="-//OASIS//DTD DITA Reference//EN"
-    doctype-system="reference.dtd">+++++++++++++ssss</xsl:output><xsl:template match="/">
+    doctype-system="reference.dtd">+++++++++++++ss</xsl:output><xsl:template match="/">
     <xsl:comment>
      This file is part of the DITA Open Toolkit project hosted on 
-     Sourceforge.net. See the accompanying license.txt file for 
+     Sourceforge.net. See the accompanying license.txt file forss 
      applicable licenses 
     </xsl:comment>
     <xsl:comment>
