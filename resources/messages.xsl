@@ -9,11 +9,11 @@
     <xsl:comment>
      This file is part of the DITA Open Toolkit project hosted on 
      Sourceforge.net. See the accompanying license.txt file for 
-     applicable licenses ss
+     applicable licenses 
     </xsl:comment>
     <xsl:comment>
      This file is generated based on the message information shipped
-     in the DITA-OT, as defined in the file
+     in the DITA-OT, as defined in the filess
      DITA-OT/resources/messages.xml
      To regenerate this topic, run the following command:
      DITA-OT/doc/ant -f build.xml generate-msg-topic
