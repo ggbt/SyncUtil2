@@ -46,9 +46,9 @@ for more information, see the Developer reference section of the User Guide.</p>
             4*</xsl:attribute>
           <sthead>
               <stentry>Message IDs</stentry>
-              <stentry>Severity</stentry>
+              <stentry>Severitys</stentry>
               <stentry>Message texts</stentry>
-              <stentry>Additional details</stentry>
+              <stentry>Additional detailss</stentry>
           </sthead>
           <xsl:for-each
             select="/*/message">
