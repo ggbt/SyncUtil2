@@ -9,7 +9,7 @@
     <xsl:comment>
      This file is part of the DITA Open Toolkit project hosted on 
      Sourceforge.net. See the accompanying license.txt file for 
-     applicable licenses SS
+     applicable licenses SSss
     </xsl:comment>
     <xsl:comment>
      This file is generated based on the message information shipped
