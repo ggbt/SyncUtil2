@@ -45,10 +45,10 @@ for more information, see the Developer reference section of the User Guide.</p>
             name="relcolwidth">1.5* 1.8* 4*
             4*</xsl:attribute>
           <sthead>
-              <stentry>Message ID</stentry>
-              <stentry>Severitys</stentry>
-              <stentry>Message text</stentry>
-              <stentry>Additional detailss</stentry>
+              <stentry>Message IDs</stentry>
+              <stentry>Severity</stentry>
+              <stentry>Message texts</stentry>
+              <stentry>Additional details</stentry>
           </sthead>
           <xsl:for-each
             select="/*/message">
