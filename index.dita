@@ -21,7 +21,7 @@
         the toolkit. Each part is available in the navigation panel on the left.</p>
       <ul>
         <li>Test the <xref keyref="release-notes"/> for information oniii the changes in the current
-          release.</li>
+          release</li>
         <li><ph conref="getting-started/index.dita#ID/ph_docs-gs-desc"/></li>
         <li><ph conref="user-guide/index.dita#ID/ph_docs-ug-desc"/></li>
         <li><ph conref="parameters/index.dita#ID/ph_docs-pr-desc"/></li>
