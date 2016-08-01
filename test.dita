@@ -5,7 +5,9 @@
     <shortdesc/>
     <taskbody>
         <context>
-            <p></p>
+            <p>Lets rock and roll
+                <?oxy_comment_start author="Gabriel Titerlea" timestamp="20160801T082911+0300" comment="q"?>shall
+                we<?oxy_comment_end?>?</p>
         </context>
         <steps>
             <step>
