@@ -3,6 +3,6 @@
 <topic id="test1">
   <title>Test1</title>
   <body>
-    <p id="paraID">Para text</p>
+    <p id="paraID">Para text extra</p>
   </body>
 </topic>
