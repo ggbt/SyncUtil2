@@ -4,6 +4,7 @@
 
 <concept id="dita2docbook" xml:lang="en-US">
   <title>DITA to DocBook</title>
-  <shortdesc>The <option>docbook</option> transformation converts DITA maps and topics into a DocBook output file.
-    Complex DITA markup might not be supported, but the transformation supports most common DITA structures.</shortdesc>
+  <shortdesc>The <option>docbook</option> transformation converts DITA maps and topics into a
+    DocBook output file. Complex DITA markup might not be supported, but the transformation supports
+    most common DITA structures.<reference conref="dita-and-dita-ot-resources.dita"/></shortdesc>
 </concept>
