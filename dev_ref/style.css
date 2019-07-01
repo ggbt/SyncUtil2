@@ -1,0 +1,15 @@
+body {
+    text-decoration: underline;
+}
+
+#a:before {
+    content: oxy_label(text, 'aaa', styles, 'width:50%;');
+    color: red;
+    font-weight: bold;
+}
+
+#b:before {
+    content: oxy_label(text, 'bbb');
+    color: red;
+    font-weight: bold;
+}
