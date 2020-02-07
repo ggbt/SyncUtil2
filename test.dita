@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_pcv_wft_15">
+<task id="task_pcv_wft_15" xml:lang="italian">
     <title></title>
     <shortdesc/>
     <taskbody>
@@ -10,6 +10,9 @@
                 some <?oxy_insert_end?>rock and roll
                 <?oxy_comment_start author="Gabriel Titerlea" timestamp="20160801T082911+0300" comment="q"?>shall
                 we<?oxy_comment_end?>?</p>
+            <p>L'Italia, ufficiaslmente Repubblica italiana, è uno Stato (301.338 km², 60.303.800
+                abitanti al 31 ottobre 2009) dell'Europa meridionale il cui territorio coincide in
+                gran parte con l'omonima regione geografica.</p>
         </context>
         <steps>
             <step>
