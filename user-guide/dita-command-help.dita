@@ -12,7 +12,7 @@
         <cmd conref="../resources/conref-task.dita#ID/open-terminal"/>
       </step>
       <step>
-        <cmd>Issue the following command:</cmd>
+        <cmd>Issue the following command:!</cmd>
         <choicetable frame="topbot" relcolwidth="1.0* 3.0*">
           <chrow platform="linux osx">
             <choption>Linux or Mac OS&#xA0;X&#xA0;</choption>
