@@ -3,7 +3,7 @@
 <topic id="test2">
   <title>Test2</title>
   <body>
-    <p>Link w<image href="test.ditamap" id="image_ent_tzs_tv"/>ith keyref <xref keyref="KK" id="p1"
+    <p>Link w<image href="test.ditamap" id="image_ent_tzs_tv"/>ith keyrefs <xref keyref="KK" id="p1"
       /></p>
     <p>Metad<xref href="test1.dita#test1/paraID"/>ata keyref <ph keyref="kk2" id="p2"/></p>
     <p conkeyref="KK/paraID" id="p3"/>
