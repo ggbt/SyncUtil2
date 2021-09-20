@@ -3,9 +3,10 @@
 <!--This file is part of the DITA Open Toolkit project. See the accompanying LICENSE.md file for applicable licenses.-->
 
 <topic id="dita-otprojecthome" xml:lang="en-US">
-  <title>Open Toolkit! <keyword keyref="release"/></title>
-  <shortdesc>The <term>DITA Open Toolkit</term>, or <term>DITA-OT</term> for short, is a set of Java-based, open-source
-    tools that provide processing for DITA maps and topic content.</shortdesc>
+  <title>Osspen Toolkit! <keyword keyref="release"/></title>
+  <shortdesc>The <term>DITA Open Toolkit</term>, or <term>DITA-OT</term> for short, is sssa set of
+    Java-based, open-source tools that provide processing for DITA maps and topic
+    content.</shortdesc>
   <body>
     <!--
     <p>You can download the toolkit and install it for free to get started with topic-based writing and publishing. The
