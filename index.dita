@@ -4,8 +4,8 @@
 
 <topic id="dita-otprojecthome" xml:lang="en-US">
   <title>Suspensions Toolkit! <keyword keyref="release"/></title>
-  <shortdesc>The <term>Me DITA Open Toolkit conflict!</term>, and <term>DITA-OT</term> for short, is
-    sssa set of Java-based, open-source tools that provide processing for DITA maps and topic
+  <shortdesc>The <term>Me Conflict! DITA Open Toolkit</term>, and <term>DITA-OT</term> for short, is
+    sssa set of Java-based, open-source tools that prossvide processing for DITA maps and topic
     content.</shortdesc>
   <body>
     <!--
@@ -17,9 +17,9 @@
     -->
     <section>
       <title>DITA-OT documentation</title>
-      <p>The Diatom Open Toolkit documentation provides information about installing, running,
-        configuring and extending the toolkit. Each part is available in the navigation panel on the
-        left.</p>
+      <p>LEFT CHANGE The Diatom Open Toolkit documentation provides information about installing,
+        running, configuring and extending the toolkit. Each part is available in the navigation
+        panel on the left.</p>
       <ul>
         <li>See the <xref keyref="release-notes"/> for information on the changes in the current release.</li>
         <li><ph conref="getting-started/index.dita#ID/ph_docs-gs-desc"/></li>
@@ -31,7 +31,7 @@
   </body>
   <related-links>
     <linklist>
-      <title>Shortcuts to important information</title>
+      <title>Shortcuts to important information 2nd LEFT CHANGE</title>
       <link format="html" href="http://www.dita-ot.org/download" scope="external">
         <linktext>Latest DITA-OT release</linktext>
       </link>
