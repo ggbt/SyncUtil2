@@ -3,10 +3,10 @@
 <!--This file is part of the DITA Open Toolkit project. See the accompanying LICENSE.md file for applicable licenses.-->
 
 <topic id="dita-otprojecthome" xml:lang="en-US">
-  <title>Suspensions Toolkit!aersRIGHT <keyword keyref="release"/></title>
-  <shortdesc>The <term>Me Conflict! DITA Open Toolkit CONFLICT</term>, and <term>DITA-OT</term> for
-    short, is sssa set of Java-based, open-source tools that prossvide processing for DITA maps and
-    topic content.</shortdesc>
+  <title>Suspensions Toolkit!aers <keyword keyref="release"/></title>
+  <shortdesc>The <term>Me Conflict! DITA Open Toolkit </term>, and <term>DITA-OT</term> for short,
+    is sssa set of Java-based, open-source tools that prossvide processing for DITA maps and topic
+    content.</shortdesc>
   <body>
     <!--
     <p>You can download the toolkit and install it for free to get started with topic-based writing and publishing. The
