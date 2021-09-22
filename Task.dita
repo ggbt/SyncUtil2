@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_xgc_vwh_5pb">
-    <title></title>
+    <title>Indeed</title>
     <shortdesc></shortdesc>
     <taskbody>
         <context>
@@ -9,7 +9,7 @@
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>1st commandment!</cmd>
             </step>
         </steps>
     </taskbody>
