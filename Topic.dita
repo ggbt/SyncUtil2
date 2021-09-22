@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_sxx_nmv_54b">
-    <title><u>!!<b>!!!</b>!!!</u></title>
+    <title><u>!!<b>!!!</b>&amp;!!!</u></title>
     <body>
-        <p>0123456789!!!!!!</p>
+        <p>0123456789!!!!!</p>
     </body>
 </topic>
